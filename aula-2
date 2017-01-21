@@ -1,0 +1,14 @@
+# Instalar NodeJS
+    (NPM) Gerenciador de pacotes do NodeJS
+# TypeScript
+    npm install -g typescript
+    (Conjunto javascript (ECMAScript 6, ECMAScript 5, (JAVA difarçado de javascript))
+# Typings
+    npm install -g typings
+# Angular Cli
+    npm install -g angular-cli@latest
+    (Ferramenta de linha de comando angular)
+
+# HTTP-SERVER
+    npm install -g http-server
+    
